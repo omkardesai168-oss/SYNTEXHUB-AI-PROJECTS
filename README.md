@@ -38,7 +38,7 @@ An interactive Python application built with **Tkinter** that visualizes multipl
 - Tkinter (GUI)
 - heapq
 - collections
-- unittest
+- unittesT
 
 ---
 
@@ -59,14 +59,15 @@ An interactive Python application built with **Tkinter** that visualizes multipl
 ```
 Run the application:
 
-``'bash
+``bash
+``
 python main.py
 ``
-```
+``
 Run unit tests:
 
 ```bash
-``
+```
 python test_astar.py
 ```
 
