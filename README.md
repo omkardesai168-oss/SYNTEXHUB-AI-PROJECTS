@@ -61,12 +61,12 @@ Run the application:
 
 ``'bash
 python main.py
-```
+``
 ```
 Run unit tests:
 
 ```bash
-```
+``
 python test_astar.py
 ```
 
@@ -150,7 +150,7 @@ The project includes comprehensive unit tests covering:
 Execute tests using:
 
 ```bash
-```
+``
 python test_astar.py
 '''
 
